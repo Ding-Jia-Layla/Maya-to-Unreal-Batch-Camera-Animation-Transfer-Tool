@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AnimDataFromJSON",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "DingJia",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"SupportedTargetBuildPlatforms": [ "Win64" ],
+	"Modules": [
+		{
+			"Name": "AnimDataFromJSON",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"LevelSequenceEditor"
+			]
+		}
+	]
+}
